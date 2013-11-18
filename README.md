@@ -1,4 +1,4 @@
-ios-components
+scl ios facebook components
 ==============
 
 Some iOS classes for facebook that may or may not be easier than using the facebook API directly.
